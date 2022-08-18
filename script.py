@@ -1,0 +1,1 @@
+documents_body_innerHTML = '<h1> Hello from Python</h1>'
